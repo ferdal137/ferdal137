@@ -1,6 +1,6 @@
 #### Hello there :rocket:
 
-##About me:
+##About me
 
 
 

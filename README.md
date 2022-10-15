@@ -5,7 +5,7 @@
 ## About me
 Geek, Computer Science and Physics student. Data Science and Machine
 Learning engineer in training. Selected by Google for participate in one of their Bootcamps.
-Certified as a Tensorflow developer and IBM Data Scientist. Passionate about space exploration :rocket:
+Certified as a Tensorflow developer and IBM Data Scientist. Passionate about space exploration 
 
 
 
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> :rocket:

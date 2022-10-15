@@ -1,6 +1,6 @@
 # 
 
-<div align="center"><img src="https://c.tenor.com/EJ5ezT8nTdoAAAAC/hello-there-obi-wan.gif" width="480" height="208" /></div>
+<div align="center"><img src="https://c.tenor.com/EJ5ezT8nTdoAAAAC/hello-there-obi-wan.gif" width="720" height="312" /></div>
 
 ## About me
 Geek, Computer Science and Physics student. Data Science and Machine

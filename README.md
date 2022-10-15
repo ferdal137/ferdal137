@@ -1,7 +1,6 @@
 # 
 
-![Uploading star-wars-obi-wan-kenobi.gif…]()
-!([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif))
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 ## About me
 Geek, Computer Science and Physics student. Data Science and Machine

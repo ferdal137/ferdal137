@@ -1,9 +1,13 @@
-#### Hello there :rocket:
+# Hello there :rocket:
+
+
 
 ## About me
-I am a Computer Science and Physics student. With knowledge in Data Science and Machine
-Learning. Selected by Google for participate in one of their Bootcamps.
-Certified as a Tensorflow developer. 
+Geek, Computer Science and Physics student. Data Science and Machine
+Learning engineer in training. Selected by Google for participate in one of their Bootcamps.
+Certified as a Tensorflow developer and IBM Data Scientist. Passionate about space exploration
+
+
 
 
 

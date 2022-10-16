@@ -7,9 +7,12 @@ Geek, Computer Science and Physics student. Data Science and Machine
 Learning engineer in training. Selected by Google for participate in one of their Bootcamps.
 Certified as a Tensorflow developer and IBM Data Scientist. Passionate about space exploration 
 
+## Software
+
+## Skills
+
 ### Social Media
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-
 
 <!--
 **ferdal137/ferdal137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

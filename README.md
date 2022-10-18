@@ -15,7 +15,7 @@ Certified as a Tensorflow developer and IBM Data Scientist. Passionate about spa
 </p>
 
 ## <div align="center">Skills</div>
-<div align="center"><ul<li>Machine Learning</li></ul></div>
+<div align="center"><li>Machine Learning</li></div>
   <li>Machine Learning</li>
   <li>Deep Learning</li>
   <li>Data Science</li>

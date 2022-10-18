@@ -10,12 +10,19 @@ Certified as a Tensorflow developer and IBM Data Scientist. Passionate about spa
 ## <div align="center">Software</div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,flask,gcp,c,cpp,cs,mysql,git,unity,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,gcp,c,cpp,cs,git,vscode" />
   </a>
 </p>
 
 ## <div align="center">Skills</div>
-<div align="center">Skills</div>
+<div align="center"><ul>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>Data Science</li>
+  <li>Computer Vision</li>
+  <li>NLP</li>
+  <li>Software Development</li>
+</ul></div>
 
 ### <div align="center">Social Media</div>
 

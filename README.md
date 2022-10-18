@@ -1,4 +1,4 @@
-# <div align="center">Hello there</div>
+# <div align="center">Hello there ...</div>
 
 <div align="center"><img src="https://media.tenor.com/QFSdaXEwtBAAAAAC/hello-there-general-kenobi.gif" width="720" height="312" /></div>
 
@@ -25,7 +25,7 @@ Certified as a Tensorflow developer and IBM Data Scientist. Passionate about spa
   </div>
 
 
-### <div align="center">Social Media</div>
+## <div align="center">Social Media</div>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fernandodalaiaguilarsanchez)
 &nbsp;

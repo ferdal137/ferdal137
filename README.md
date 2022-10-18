@@ -2,17 +2,22 @@
 
 <div align="center"><img src="https://media.tenor.com/QFSdaXEwtBAAAAAC/hello-there-general-kenobi.gif" width="720" height="312" /></div>
 
-## About me
-Geek, Computer Science and Physics student. Data Science and Machine
+## <div align="center">About me</div>
+<div align="center">Geek, Computer Science and Physics student. Data Science and Machine
 Learning engineer in training. Selected by Google for participate in one of their Bootcamps.
-Certified as a Tensorflow developer and IBM Data Scientist. Passionate about space exploration 
+Certified as a Tensorflow developer and IBM Data Scientist. Passionate about space exploration</div>
 
 ## <div align="center">Software</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
-## Skills
+## <div align="center">Skills</div>
 
-### Social Media
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+### <div align="center">Social Media</div>
+
 
 <!--
 **ferdal137/ferdal137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

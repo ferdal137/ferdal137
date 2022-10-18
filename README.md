@@ -7,7 +7,7 @@ Geek, Computer Science and Physics student. Data Science and Machine
 Learning engineer in training. Selected by Google for participate in one of their Bootcamps.
 Certified as a Tensorflow developer and IBM Data Scientist. Passionate about space exploration 
 
-## Software
+## <div align="center">Software</div>
 
 ## Skills
 

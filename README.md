@@ -3,9 +3,9 @@
 <div align="center"><img src="https://media.tenor.com/QFSdaXEwtBAAAAAC/hello-there-general-kenobi.gif" width="720" height="312" /></div>
 
 ## <div align="center">About me</div>
-<h4><div align="center">Geek, Computer Science and Physics student. Data Science and Machine
+<h3><div align="center">Geek, Computer Science and Physics student. Data Science and Machine
 Learning engineer in training. Selected by Google for participate in one of their Bootcamps.
-Certified as a Tensorflow developer and IBM Data Scientist. Passionate about space exploration</div></h4>
+Certified as a Tensorflow developer and IBM Data Scientist. Passionate about space exploration</div></h3>
 
 ## <div align="center">Software</div>
 <p align="center">
@@ -17,11 +17,11 @@ Certified as a Tensorflow developer and IBM Data Scientist. Passionate about spa
 ## <div align="center">Skills</div>
 
 <div align="center">
-  <h4>
+  <h3>
   <ul>
   Machine Learning  ||  Deep Learning  ||  Data Science  ||  Computer Vision  ||  Natural language processing  ||  Software Development
   </ul>
-   </h4>
+   </h3>
   </div>
 
 

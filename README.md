@@ -27,8 +27,8 @@ Certified as a Tensorflow developer and IBM Data Scientist. Passionate about spa
 
 ### <div align="center">Social Media</div>
 
-<div align="center"></h2>[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fernandodalaiaguilarsanchez)
-&nbsp;</h2></div>
+<div align="center">[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fernandodalaiaguilarsanchez)
+&nbsp;</div>
 
 
 

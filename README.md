@@ -24,6 +24,7 @@ Certified as a Tensorflow developer and IBM Data Scientist. Passionate about spa
   <li>Computer Vision</li>
   <li>Natural language processing</li>
   <li>Software Development</li>
+  </ul>
 </div>
 
 ### <div align="center">Social Media</div>

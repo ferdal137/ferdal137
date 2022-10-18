@@ -15,9 +15,15 @@ Certified as a Tensorflow developer and IBM Data Scientist. Passionate about spa
 </p>
 
 ## <div align="center">Skills</div>
-<div class="container">
-  <ul class="myUL">
-     <li>Machine Learning</li>
+ul {
+  display: table;
+  margin: 0 auto;
+}
+<html>
+
+<body>
+  <ul>
+  <li>Machine Learning</li>
   <li>Machine Learning</li>
   <li>Deep Learning</li>
   <li>Data Science</li>
@@ -25,7 +31,9 @@ Certified as a Tensorflow developer and IBM Data Scientist. Passionate about spa
   <li>Natural language processing</li>
   <li>Software Development</li>
   </ul>
-</div>
+</body>
+
+</html>
 
 ### <div align="center">Social Media</div>
 

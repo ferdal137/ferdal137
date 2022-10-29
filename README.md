@@ -3,7 +3,7 @@
 <div align="center"><img src="https://media.tenor.com/QFSdaXEwtBAAAAAC/hello-there-general-kenobi.gif" width="720" height="312" /></div>
 
 ## <div align="center">About me</div>
-<h3><div align="center">Geek, Computer Science and Physics student. Data Science and Machine
+<h3><div align="center">Geek and Physics student. Data Science and Machine
 Learning engineer in training. Selected by Google for participate in one of their Bootcamps.
 Certified as a Tensorflow developer and IBM Data Scientist. Passionate about space exploration</div></h3>
 

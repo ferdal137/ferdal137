@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Fernando Dalai</h1>
 <h3 align="center">Astrophysics student with interests in Artificial Intelligence and Data Science</h3>
 
-<h3>- 🚀 I’m currently working on **Genesis** (https://www.hiteamgenesis.com/)</h3>
+<h3>• 🚀 I’m currently working on **Genesis** (https://www.hiteamgenesis.com/)
 
-- 📖 I’m currently learning **Robotics (ROS)**
+• 📖 I’m currently learning **Robotics (ROS)**
 
-- 🤝 I’m looking to collaborate on **AI projects**
+• 🤝 I’m looking to collaborate on **AI projects**
 
-- 💬 Ask me about **AI, Data Science, Machine Learning**
+• 💬 Ask me about **AI, Data Science, Machine Learning**
 
-- 📫 How to reach me **fernandodalai.as@gmail.com**
+• 📫 How to reach me **fernandodalai.as@gmail.com**  </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

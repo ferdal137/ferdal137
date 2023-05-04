@@ -26,5 +26,5 @@
 
 <h3 align="left">Other:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdal137&" alt="ferdal137" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdal137&show_icons=true&locale=en" alt="ferdal137" /></p>
 

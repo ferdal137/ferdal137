@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fernando Dalai</h1>
-<h3 align="center">Astrophysics student with interests in Artificial Intelligence and Data Science</h3>
+<h2 align="center">Astrophysics student with interests in Artificial Intelligence and Data Science</h2>
 
-<h3>• 🚀 I’m currently working on **Genesis** (https://www.hiteamgenesis.com/)
+<h3>
+ 
+• 🚀 I’m currently working on **Genesis** (https://www.hiteamgenesis.com/)
 
 • 📖 I’m currently learning **Robotics (ROS)**
 

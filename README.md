@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fernando Dalai</h1>
+<h1 align="center">Hello there 👋, I'm Fernando Dalai</h1>
 <h2 align="center">Astrophysics student with interests in Artificial Intelligence and Data Science</h2>
 
 <h3>

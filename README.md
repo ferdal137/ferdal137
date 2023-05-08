@@ -7,7 +7,7 @@
 
 • 📖 I’m currently learning **Robotics (ROS)**
 
-• 🤝 I’m looking to collaborate on **AI projects**
+• 🤝 I’m looking to collaborate on **AI or Aerospace projects**
 
 • 💬 Ask me about **AI, Data Science, Machine Learning**
 

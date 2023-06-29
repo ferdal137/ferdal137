@@ -3,7 +3,7 @@
 
 <h3>
  
-• 🚀 I’m currently working on **Genesis** (https://www.hiteamgenesis.com/)
+• 🚀 I’m the software lead of **Genesis** (https://www.hiteamgenesis.com/)
 
 • 📖 I’m currently learning **Robotics (ROS)**
 

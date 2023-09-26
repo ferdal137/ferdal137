@@ -3,7 +3,7 @@
 
 <h3>
  
-• 🚀 I’m a Software Engineer at **Genesis** (https://www.hiteamgenesis.com/)
+• 🚀 I’m a Software Engineer at **Genesis** 
 
 • 📖 I’m currently learning **Robotics (ROS)**
 

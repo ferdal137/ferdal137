@@ -3,11 +3,11 @@
 
 <h3>
  
-• 🚀 I’m a Data Scientist Jr
+• 🚀 I’m a **Data Scientist Jr**
 
-• 📖 I’m currently learning **Robotics (ROS)**
+• 📖 I’m currently learning **Advanced data analytics**
 
-• 🤝 I’m looking to collaborate on **AI or Aerospace projects**
+• 🤝 I’m looking to collaborate on **AI or Aerospace software projects**
 
 • 💬 Ask me about **AI, Data Science, Machine Learning**
 

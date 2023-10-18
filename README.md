@@ -3,7 +3,7 @@
 
 <h3>
  
-• 🚀 I’m a Software Engineer at **Genesis** 
+• 🚀 I’m a Data Scientist Jr
 
 • 📖 I’m currently learning **Robotics (ROS)**
 

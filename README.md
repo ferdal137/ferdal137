@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Fernando Dalai</h1>
-<h2 align="center">Astrophysics student with interests in Artificial Intelligence and Data Science</h2>
+<h2 align="center">Data Scientist and Astrophysics student</h2>
 
 <h3>
  

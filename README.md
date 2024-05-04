@@ -3,7 +3,7 @@
 
 <h3>
  
-• 🚀 I’m a **Data Scientist Jr**
+• 🚀 I’m a **Data Scientist**
 
 • 📖 I’m currently learning **Advanced Data Analytics**
 

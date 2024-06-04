@@ -40,8 +40,7 @@
 <h2 align="left">Other</h2>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.ros.org/imgs/logo-white.png" alt="git" width="100" height="35"/> </a>
-</p>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 <h1 align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdal137&show_icons=true&locale=en" alt="ferdal137" /></p></h1>
 

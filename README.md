@@ -67,6 +67,15 @@
  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://www.nltk.org/images/nltk-logo.svg" alt="nltk" width="40" height="40"/> </a>
 </p>
 
+<h2 align="left">Data Analysis Tools</h2>
+<p align="left">
+ <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40"/> </a>
+ <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> </a>
+ <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="40" height="40"/> </a>
+ <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/> </a>
+ <a href="https://www.dataiku.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dataiku/dataiku-icon.svg" alt="Dataiku" width="40" height="40"/> </a>
+</p>
+
 
 <h2 align="left">Other</h2>
 <p align="left">

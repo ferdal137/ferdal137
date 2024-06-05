@@ -1,9 +1,11 @@
 <h1 align="center">Hello there 👋, I'm Fernando Dalai</h1>
-<h2 align="center">Data Scientist and Computer Science student</h2>
+<h2 align="center">Data Scientist</h2>
 
 <h3>
  
-• 🚀 I’m a **Data Scientist**
+• 🚀 I’m a **Data Scientist I**
+
+• 📊 I studied a degree in **physics and mathematics** and now I study **software engineering**
 
 • 📖 I’m currently learning **Advanced Data Analytics**
 

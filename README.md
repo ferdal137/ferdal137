@@ -63,8 +63,7 @@
  <a href="https://pola.rs/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/polars_logo_icon_248809.png" alt="polars" width="40" height="40"/> </a>
  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="pyspark" width="40" height="40"/> </a>
  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.mlflow.org/docs/1.24.0/_static/MLflow-logo-final-black.png" alt="mlflow" width="80" height="40"/> </a>
- <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png
-" alt="numpy" width="40" height="40"/> </a>
+ <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png" alt="numpy" width="40" height="40"/> </a>
  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/054713e416b08e6a7aef211e3ccc6f1539191ded34f9afb9acd81061be1f9d4e/68747470733a2f2f676c6f62616c2d75706c6f6164732e776562666c6f772e636f6d2f3564336563333531623165626134333332643231333030342f3565633634356363643064356666336461333365633732365f707974686f6e5f6e6c746b2e706e67" alt="nltk" width="40" height="40"/> </a>
 </p>
 

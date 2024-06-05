@@ -60,7 +60,7 @@
  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://docs.streamlit.io/logo.svg" alt="streamlit" width="40" height="40"/> </a>
- <a href="https://pola.rs/" target="_blank" rel="noreferrer"> <img src="https://pola.rs/logo/polars-logo-circular.svg" alt="polars" width="40" height="40"/> </a>
+ <a href="https://pola.rs/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/polars_logo_icon_248809.png" alt="polars" width="40" height="40"/> </a>
  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="pyspark" width="40" height="40"/> </a>
  <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" alt="mlflow" width="40" height="40"/> </a>
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" width="40" height="40"/> </a>

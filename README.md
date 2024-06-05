@@ -70,7 +70,6 @@
 <h2 align="left">Data Analysis Tools</h2>
 <p align="left">
  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40"/> </a>
- <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> </a>
  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="40" height="40"/> </a>
  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/> </a>
  <a href="https://www.dataiku.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dataiku/dataiku-icon.svg" alt="Dataiku" width="40" height="40"/> </a>
@@ -81,6 +80,8 @@
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/es-es/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> </a>
+
 
 <h1 align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdal137&show_icons=true&locale=en" alt="ferdal137" /></p></h1>
 

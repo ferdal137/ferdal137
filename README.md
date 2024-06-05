@@ -43,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/>
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F434046%2Fazure-sql-database&psig=AOvVaw08RXfrqd_MHaBCGDjGctP7&ust=1717687750833000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjx4tbjxIYDFQAAAAAdAAAAABAQ)" alt="sql" width="40" height="40"/>
   </a>
 </p>
 

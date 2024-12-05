@@ -3,11 +3,11 @@
 
 <h3>
  
-• 🚀 I’m a **Data Scientist**
+• 🚀 I’m a **Data Scientist Mid**
 
-• 📊 I studied a degree in **physics and mathematics** and now I study **software engineering**
+• 📊 I studied a degree in **physics and mathematics** and a degree in **software engineering**
 
-• 📖 I’m currently learning **Advanced Data Analytics**
+• 📖 I’m currently learning **Advanced Neural Network Architectures**
 
 • 🤝 I’m looking to collaborate with **Startups**
 

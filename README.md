@@ -3,7 +3,7 @@
 
 <h3>
  
-• 🚀 I’m a **Data Scientist Mid**
+• 🚀 I’m a **Data Scientist**
 
 • 📊 I studied a degree in **physics and mathematics** and a degree in **software engineering**
 
